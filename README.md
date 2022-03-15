@@ -1,9 +1,3 @@
-## Made from [AnyDLBot](https://telegram.dog/AnyDLBot)
-
-ALL CREDITS GOES TO THE BELOVED DEVELOPERS :)
-
-#### If you find any bugs, report to [prgofficial](https://telegram.dog/prgofficial)
-
 ### Features
 
 👉 All Supported Video Formats of https://rg3.github.io/youtube-dl/supportedsites.html
@@ -20,11 +14,10 @@ ALL CREDITS GOES TO THE BELOVED DEVELOPERS :)
 
 #### The Easiest Way
 
-**Upgrade** your subscription for [@AnyDLBot](https://telegram.dog/AnyDLBot) without having to run anything on your own
 
 #### Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/Boburjon04/uploader0404)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/NaveenTn49/uploader0404)
 
 #### Run in your VPS
 ```sh
